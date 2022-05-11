@@ -8,7 +8,7 @@ Hello everyone
 <img src="https://user-images.githubusercontent.com/40445770/167905072-83a386ab-f065-4a03-8a52-5621674b8673.jpg" alt="drawing" width="400"/>
 
 接下来给大家介绍我的好兄弟，喵桑<br>
-<img src="https://user-images.githubusercontent.com/40445770/167905148-20ef8d64-80ed-4e95-b658-cde10ba34375.jpg" alt="drawing" width="600"/>
+<img src="https://user-images.githubusercontent.com/40445770/167905148-20ef8d64-80ed-4e95-b658-cde10ba34375.jpg" alt="drawing" width="600"/><br>
 她对我的键盘有一种超乎世俗的执念
 
 再来介绍一下我的兴趣爱好把，那就是 *喝奶茶*<br>
