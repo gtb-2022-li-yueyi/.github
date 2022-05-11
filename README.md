@@ -7,7 +7,7 @@ Hello everyone
 大家逛了一圈想必也发现了我的真实面目，那就是 ~~菜狗~~<br>
 <img src="https://user-images.githubusercontent.com/40445770/167905072-83a386ab-f065-4a03-8a52-5621674b8673.jpg" alt="drawing" width="400"/>
 
-接下来给大家介绍我的好兄弟，喵桑
+接下来给大家介绍我的好兄弟，喵桑<br>
 <img src="https://user-images.githubusercontent.com/40445770/167905148-20ef8d64-80ed-4e95-b658-cde10ba34375.jpg" alt="drawing" width="600"/>
 她对我的键盘有一种超乎世俗的执念
 
