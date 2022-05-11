@@ -1,7 +1,8 @@
 # README -
 Hello everyone
 欢迎大家来到我的主页，请大家鉴赏一下我的自拍
-![自拍](https://user-images.githubusercontent.com/40445770/167904579-f65310d7-ecbd-4078-9543-6b652e9eb315.jpg)
+<img src="https://user-images.githubusercontent.com/40445770/167904579-f65310d7-ecbd-4078-9543-6b652e9eb315.jpg" alt="drawing" width="100"/>
+
 
 大家逛了一圈想必也发现了我的真实面目，那就是 ~~菜狗~~
 ![菜狗](https://user-images.githubusercontent.com/40445770/167905072-83a386ab-f065-4a03-8a52-5621674b8673.jpg)
